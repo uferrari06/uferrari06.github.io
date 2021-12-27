@@ -5,3 +5,9 @@ Para probar tecnologias del desarrollo web:
 * javascript
 
 ***
+
+![imagen bosque](imagen_test.jpg)
+
+***
+
+Ver [documentación mozilla](https://developer.mozilla.org/es/docs/Learn) 
